@@ -2,8 +2,11 @@
 /* Your CSS Code here. */
 
 .button{
+	border:0px;
+	padding:0px;
 	background:black;
     color:white;
+	
 	Border-radius:5px;
 }
 .button:hover{
